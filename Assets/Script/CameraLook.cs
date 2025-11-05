@@ -13,7 +13,7 @@ public class CameraLookInputSystem : MonoBehaviour
 
     void Start()
     {
-        if (!playerBody) playerBody = transform.parent;
+        if (!playerBody == null) playerBody = transform.parent;
         lookAction?.action.Enable();
     }
     void OnDisable() => lookAction?.action.Disable();
