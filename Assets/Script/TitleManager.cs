@@ -6,6 +6,6 @@ public class TitleManager : MonoBehaviour
 {
     public void OnStartButton()
     {
-        SceneManager.LoadScene("Stage1");
+        SceneManager.LoadScene("SurveyScene");
     }
 }
