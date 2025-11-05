@@ -13,7 +13,8 @@ public class GameManager : MonoBehaviour
         switch (surveyResult)
         {
             case 1:
-                // 異形・クリーチャー的恐怖
+                // 異形・クリーチャー的恐怖 konnnitiwa
+                
                 break;
             case 2:
                 // 人体・人形的恐怖
