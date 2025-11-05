@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ConfinementWalk.unity
     guid: 4a0ddbc7dd755f64091749ee9a5b0f65
   - enabled: 1
-    path: Assets/Scenes/Stage1.unity
-    guid: 51735c829f7e7d04da4290b8f084b732
+    path: Assets/Scenes/SurveyScene.unity
+    guid: 3c67b16e2d9ee2844884fdadd9f383f3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
